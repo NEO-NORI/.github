@@ -1,13 +1,14 @@
 # NEONORI
 
-**NEONORI 팀의 공식 GitHub Organization입니다.**
+NEONORI 팀의 공식 GitHub Organization입니다.
 
-이곳에서는 팀 프로젝트, 공용 라이브러리, 문서, 실험 및 개발 리소스를 관리합니다.
+팀 프로젝트, 공용 라이브러리, 문서 및 개발 리소스를 관리합니다.
 
-## 프로젝트
+## Team
 
-* 팀 프로젝트
-* 공용 라이브러리
-* 내부 도구
-* 문서 및 가이드
-* 실험 및 프로토타입
+> [!CAUTION]
+> 프로필 공개를 허락한 팀원에 한해서만 표기합니다.
+
+| Profile | Name | Role | GitHub |
+|---|---|---|---|
+| <img src="https://avatars.githubusercontent.com/u/36888398" width="80" alt="kys-0602" /> | kys-0602 | Game Client Developer | [@kys-0602](https://github.com/kys-0602 "kys-0602") |
